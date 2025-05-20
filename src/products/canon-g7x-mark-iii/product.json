@@ -1,0 +1,15 @@
+{
+  "title": "Canon G7X Mark III",
+  "description": "The Canon PowerShot G7 X Mark III is a premium compact camera designed for content creators. With 4K video recording, 20.1 Megapixel 1.0-type stacked CMOS sensor, and live streaming capabilities, it's perfect for vloggers and photographers alike.",
+  "price": 749.99,
+  "rating": 4.7,
+  "reviewCount": 28,
+  "images": [
+    "https://images.pexels.com/photos/51383/photo-camera-subject-photographer-51383.jpeg",
+    "https://images.pexels.com/photos/1203803/pexels-photo-1203803.jpeg",
+    "https://images.pexels.com/photos/225157/pexels-photo-225157.jpeg"
+  ],
+  "condition": "New",
+  "category": "Cameras",
+  "brand": "Canon"
+}

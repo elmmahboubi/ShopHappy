@@ -1,0 +1,16 @@
+{
+  "title": "Ninja Slushie 1",
+  "description": "Unleash your inner ninja with the Ninja Slushie! This refreshing, icy treat delivers a burst of fruity flavor and a cool kick with every sip. Perfect for hot days, parties, or whenever you need a stealthy pick-me-up, the Ninja Slushie is your go-to for fun and delicious refreshment.",
+  "price": 233.99,
+  "rating": 4.9,
+  "reviewCount": 42,
+  "images": [
+    "/products/ninja-Slushie-1/img1.jpg",
+    "/products/ninja-Slushie-1/img2.jpg",
+    "/products/ninja-Slushie-1/img3.jpg",
+    "/products/ninja-Slushie-1/img4.jpg"
+  ],
+  "condition": "New",
+  "category": "Cameras",
+  "brand": "Sony"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Fujifilm X-T5",
+  "description": "The Fujifilm X-T5 combines classic design with cutting-edge technology. With a 40MP APS-C sensor, 6.2K video, and advanced film simulations, it's perfect for photographers who appreciate both form and function.",
+  "price": 1699.99,
+  "rating": 4.8,
+  "reviewCount": 35,
+  "images": [
+    "https://images.pexels.com/photos/433098/pexels-photo-433098.jpeg",
+    "https://images.pexels.com/photos/1002638/pexels-photo-1002638.jpeg",
+    "https://images.pexels.com/photos/1091294/pexels-photo-1091294.jpeg"
+  ],
+  "condition": "New",
+  "category": "Cameras",
+  "brand": "Fujifilm"
+}

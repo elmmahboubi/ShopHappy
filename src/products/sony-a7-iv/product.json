@@ -1,0 +1,15 @@
+{
+  "title": "Sony Alpha A7 IV",
+  "description": "The Sony Alpha A7 IV redefines what a hybrid camera can do. With a 33MP full-frame sensor, 4K 60p video, and advanced autofocus, it's the perfect tool for professional photographers and videographers.",
+  "price": 2499.99,
+  "rating": 4.9,
+  "reviewCount": 42,
+  "images": [
+    "https://images.pexels.com/photos/3497065/pexels-photo-3497065.jpeg",
+    "https://images.pexels.com/photos/3497127/pexels-photo-3497127.jpeg",
+    "https://images.pexels.com/photos/3497137/pexels-photo-3497137.jpeg"
+  ],
+  "condition": "New",
+  "category": "Cameras",
+  "brand": "Sony"
+}
